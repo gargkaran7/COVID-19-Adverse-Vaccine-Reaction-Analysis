@@ -7,3 +7,6 @@ We started from three raw datasets. We merged them all and cleaned them to elimi
 The objective here is to draw conclusions about the adverse effects of the vaccine on the people of Los Angeles from a raw dataset of the United States. We took a whole dataset of the United States from Kaggle containing 3 raw datasets with thousands of rows and cleaned them for unwanted data cleaning empty and duplicate columns and filtering out the data of a single state(Los Angeles).
 
 We successfully concluded and visualized the results. Peaks are showing the most recurrent symptom, who are affected the most whether male or female plotted with their respective ages.
+
+Link to Datasets:
+https://www.kaggle.com/ayushggarg/covid19-vaccine-adverse-reactions
